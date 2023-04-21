@@ -3,3 +3,4 @@ The main page (index.html) contains the title of the test, the first and last na
 The test page (app.html) displays the questions and answer options. 
 At the end of the test, the result and score are displayed. 
 The first name, last name, number of correct answers, and score are saved to the Local Storage.
+Questions about the Pascal programming language.
